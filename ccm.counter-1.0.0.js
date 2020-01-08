@@ -1,7 +1,7 @@
 (() => {
     const component = {
       name: 'counter',
-      
+      version:[1,0,0],
       ccm: 'https://ccmjs.github.io/ccm/ccm.js',
       config: {
         counter: 0,   
